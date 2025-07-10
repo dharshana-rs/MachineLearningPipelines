@@ -6,14 +6,14 @@ This project demonstrates how to convert exploratory notebook code into a reusab
 
 
 project_root/
-├── main.py              # Entry point for running the pipeline
-├── loaders.py           # Functions to load CSV and ASCII files
-├── cleaners.py          # Reusable data cleaning functions
-├── requirements.txt     # Python package dependencies
-├── README.md            # Project overview and usage instructions
-└── data/
-├── data.csv         	# Sample CSV input
-└── data_ascii.txt   	# Sample ASCII (fixed-width) input
+	main.py              # Entry point for running the pipeline
+	loaders.py           # Functions to load CSV and ASCII files
+	cleaners.py          # Reusable data cleaning functions
+	requirements.txt     # Python package dependencies
+	README.md            # Project overview and usage instructions
+	data/
+		data.csv         	# Sample CSV input
+		data_ascii.txt   	# Sample ASCII (fixed-width) input
 
 
 ## ▶️ How to Run
